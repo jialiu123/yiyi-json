@@ -1,3 +1,5 @@
 yiyi-json\
 
-.idea/
+.idea
+target
+yiyi.json.iml
