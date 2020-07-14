@@ -1,4 +1,4 @@
-package utils;
+package com.yiyi.utils;
 
 /**
  * @author ：liujia
